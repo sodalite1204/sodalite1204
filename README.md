@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodalite1204&show_icons=true&theme=nightowl)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodalite1204&langs_count=10&layout=compact&theme=nightowl)
+
 <!--
 **sodalite1204/sodalite1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
